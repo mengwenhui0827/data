@@ -1,0 +1,3 @@
+git commit -m "first commit"
+git remote add origin https://github.com/mengwenhui0827/data.git
+git push -u origin master
